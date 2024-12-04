@@ -1,7 +1,7 @@
 # Vendor Communication Chatbot with Machine Learning  
 
 ## Overview  
-This project showcases the development of an intelligent chatbot capable of recognizing user intents and delivering accurate responses using **Natural Language Processing (NLP)** and **Machine Learning** techniques. The chatbot leverages a **Support Vector Machine (SVM)** classifier, trained on a dataset of labeled intents, to classify input queries and generate dynamic responses.
+This project showcases the development of vendor communication chatbot capable of recognizing user intents and delivering accurate responses using **Natural Language Processing (NLP)** and **Machine Learning** techniques. The chatbot leverages a **Support Vector Machine (SVM)** classifier, trained on a dataset of labeled intents, to classify input queries and generate dynamic responses.
 
 ## Features  
 - **Intent Classification:** Identifies user intent using a trained SVM model.  
